@@ -35,7 +35,4 @@ An AI-powered career coaching platform that helps individuals design, explore, a
 
 ## ⚙️ Getting Started
 
-### 1. Clone the repo
-```bash
-git clone https://github.com/Abhiman67/CARRER_AGENT.git
 
