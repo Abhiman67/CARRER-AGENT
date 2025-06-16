@@ -21,6 +21,9 @@ An AI-powered career coaching platform that helps individuals design, explore, a
 
 ![image](https://github.com/user-attachments/assets/2decd2fe-efcc-4469-a73b-adaf0792dd6c)
 
+![image](https://github.com/user-attachments/assets/90253748-7f80-48e7-b435-a6eb139bc7bc)
+
+
 
 
 ---
